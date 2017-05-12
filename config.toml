@@ -1,0 +1,4 @@
+baseURL = "http://sisioh.com/"
+languageCode = "ja-JP"
+title = "獅子王"
+publishdir = "public"
